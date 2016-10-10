@@ -26,14 +26,19 @@ def squareDraw():
     turnBy(90)
     wait(1)
     forward(1,1)
+    
+    
 def triangleDraw():
+    penUp()
     forward(2,1)
+    penDown()
     turnBy(90)
     forward(1,1)
     turnBy(120)
     forward(1,1)
     turnBy(120)
     forward(1,1)
+    penUp()
 
 squareDraw()
 triangleDraw()
