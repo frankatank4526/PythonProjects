@@ -1,1 +1,3 @@
-The main difference between writing code to draw letters and shapes is the repetition of code. When writing code to draw shapes, it is possible to code for a function that can be used for any polygon, however when drawing letters that is not possible since some letters such as "O" have curves while the letter "F" does not. 
+The main difference between writing code to draw letters and shapes is the repetition of code.
+When writing code to draw shapes, it is possible to code for a function that can be used for any polygon, 
+however when drawing letters that is not possible since some letters such as "O" have curves while the letter "F" does not. 
