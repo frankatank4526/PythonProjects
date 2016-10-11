@@ -1,6 +1,8 @@
+#CODE FOR SQUARE AND TRIANGLE 
 from Myro import *
 init ("sim")
 def squareDraw():
+    
     #contents of functions are indented
     penDown()
     forward(1,1)
